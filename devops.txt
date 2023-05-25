@@ -1,4 +1,3 @@
- devops class
-mygit
+devops class
 git class
-hello world
+my file
