@@ -2,5 +2,6 @@
 git class
 my file
 
-
+change from remote 
 my change from remote repo 
+
