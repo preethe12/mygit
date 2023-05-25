@@ -1,3 +1,4 @@
  devops class
+mygit
 git class
 hello world
