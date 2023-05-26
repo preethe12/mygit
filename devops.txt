@@ -2,7 +2,10 @@ devops class
 git class
 my file
 
-
+change from remote 
 my change from remote repo 
 
+<<<<<<< HEAD
 newchnge frol local
+=======
+>>>>>>> 214ab40224c8cebb09eedb28aa514c505b775ed7
